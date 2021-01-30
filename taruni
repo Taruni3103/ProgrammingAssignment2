@@ -1,0 +1,15 @@
+print Hello World
+v<- TRUE
+v<- 23.6
+v<-2L
+v<- 2+5i
+v<- "TRUE"
+v<- charToRaw"Hello"
+apple<- c("blue", "green", "yellow")
+list1<- list(c(2,3,4),23.4,cos)
+M= matrix(c('a','b','b','c','a','b'), nrow=2,ncol=3,byrow=TRUE
+a<- array(c('blue','green'),dim=(3,3,2))
+v<- c(2,5.5,6)
+t<- c(8,3,4)
+apple_colors <-('green','green''yellow','red','red','red','yellow',)
+BMI <- data.frame(gender =c("male","male","female"),height =c(152,171,165),weight =c(81,93,78),age =c(42,38,23))
